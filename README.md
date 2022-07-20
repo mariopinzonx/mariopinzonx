@@ -2,7 +2,7 @@
 
 - 🌱 Actualmente estoy aprendiendo: HTML, CSS, JavaScript, C#, SQL.
 
-- 🔭 Front-End Mentor: https://github.com/pinzonmario
+- 🔭 Front-End Mentor: <a href="https://github.com/pinzonmario">Retos</a>
 
 <!--
 **mariopinzonx/mariopinzonx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
